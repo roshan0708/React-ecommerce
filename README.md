@@ -2,6 +2,14 @@
 Full Stack E-Commerce App built with React, using Firebase and Stripe API, deployed with Heroku
 To view the app, visit: [https://crwn-live0708.herokuapp.com/](https://crwn-live0708.herokuapp.com/)
 
+## Screenshots
+![Landing page](https://user-images.githubusercontent.com/60403638/83971127-2aff8a00-a8f7-11ea-8cc6-f5205cc4d25b.jpg)
+
+![SignIn Page](https://user-images.githubusercontent.com/60403638/83971151-5aae9200-a8f7-11ea-91da-c364f9c73a5f.jpg)
+
+![Checkout page](https://user-images.githubusercontent.com/60403638/83971158-69954480-a8f7-11ea-9d5e-ec90cab6736b.jpg)
+
+
 ## Technologies Used
 1. React.js (Front-end)
 2. SASS and Styled Components (Styling)
