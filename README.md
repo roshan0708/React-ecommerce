@@ -57,15 +57,25 @@ Follow these simple steps to run the project locally:
     REACT_APP_APP_ID=<app_id>
     REACT_APP_MEASUREMENT_ID=<measurement_id>
     REACT_APP_DATABASE_URL=<database_url>
+    
+    # Fill the below variable afterwards
+    REACT_APP_PUBLISHABLE_KEY=<stripe_publishable_key>
    ```
+   
+4. Make an account on [Stripe](https://stripe.com/en-in) and then after login go to dashboard.
+5. Now we require the `publishable key` which can be easily found inside the Developers tab like this
 
-4. Install all the dependencies of `package.json` file by running below command in root directory.
+   <img src="https://user-images.githubusercontent.com/60403638/120120836-a79d0f80-c1bd-11eb-887b-8bbd29c979a5.jpg"/>
+   
+   Grab the token and insert it inside `REACT_APP_PUBLISHABLE_KEY` field in the `.env` file of yours
+
+6. Install all the dependencies of `package.json` file by running below command in root directory.
 
    ```
    npm install
    ```
    
-5. Run the following command in the root directory to start the project
+7. Run the following command in the root directory to start the project
 
    ```
    npm start
