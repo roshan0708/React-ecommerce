@@ -7,7 +7,7 @@ const SHOP_DATA = {
       {
         id: 1,
         name: 'Forest Photoshoot',
-        imageUrl: 'https://i.ibb.co/sy7Z6mj/photo-1631621583126-ed10a80f62b1-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-M.png.png',
+        imageUrl: 'https://i.ibb.co/sy7Z6mj/photo-1631621583126-ed10a80f62b1-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-M.png',
         price: 4000
       },
       {
@@ -26,74 +26,74 @@ const SHOP_DATA = {
         id: 4,
         name: 'Lake view Photoshoot',
         imageUrl: 'https://i.ibb.co/YLqx3Jx/raj-photo-and-video-8-15-248917-1567142929.png',
-        price: 25
+        price: 2500
       },
       {
         id: 5,
         name: 'Farm Photoshoot',
         imageUrl: 'https://i.ibb.co/jJNzdQf/ATLHEA-STUDIO-1-scaled.png',
-        price: 18
+        price: 1800
       },
       {
         id: 6,
         name: 'Palm Tree Photoshoot',
         imageUrl: 'https://i.ibb.co/BjjrpMC/ATLHEA-STUDIO-139-scaled.png',
-        price: 14
+        price: 1400
       },
       {
         id: 7,
         name: 'Rain Drop Photoshoot',
         imageUrl: 'https://i.ibb.co/P1h5b1M/ATLHEA-OUTDOORSHOOT-43-scaled.png',
-        price: 18
+        price: 1800
       },
       {
         id: 8,
         name: 'Temple Photoshoot',
         imageUrl: 'https://i.ibb.co/M6GKDkx/0001-scaled.png',
-        price: 14
+        price: 1455
       },
       {
         id: 9,
         name: 'Blue Snapback Photoshoot',
         imageUrl: 'https://i.ibb.co/G97fTR0/ATLHEA-2021-26-scaled.jpg',
-        price: 16
+        price: 1600
       }
     ]
   },
   sneakers: {
     id: 2,
-    title: 'Bride Side Photoshoot',
+    title: ' 4k Recording Photoshoot',
     routeName: 'sneakers',
     items: [
       {
         id: 10,
         name: 'Fully Ready',
-        imageUrl: 'https://i.ibb.co/F6BGkv5/photo-1610173827043-9db50e0d8ef9-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-M.png',
-        price: 220
+        imageUrl: 'https://i.ibb.co/gtr4gnW/Kanyadaan1306.png',
+        price: 2200
       },
       {
         id: 11,
         name: 'Adidas Yeezy',
-        imageUrl: 'https://i.ibb.co/dJbG1cT/yeezy.png',
-        price: 280
+        imageUrl: 'https://i.ibb.co/QM6dMr8/Wedding-Videography.png',
+        price: 2800
       },
       {
         id: 12,
         name: 'Black Converse',
-        imageUrl: 'https://i.ibb.co/bPmVXyP/black-converse.png',
-        price: 110
+        imageUrl: 'https://i.ibb.co/885Zx9x/wedding-videography-500x500.png',
+        price: 1100
       },
       {
         id: 13,
         name: 'Nike White AirForce',
-        imageUrl: 'https://i.ibb.co/1RcFPk0/white-nike-high-tops.png',
-        price: 160
+        imageUrl: 'https://i.ibb.co/RjT2r85/pre-wedding-cinematic-film-services-500x500.png',
+        price: 1600
       },
       {
         id: 14,
         name: 'Nike Red High Tops',
         imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
-        price: 160
+        price: 1600
       },
       {
         id: 15,
@@ -105,13 +105,13 @@ const SHOP_DATA = {
         id: 16,
         name: 'Air Jordan Limited',
         imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
-        price: 190
+        price: 1900
       },
       {
         id: 17,
         name: 'Timberlands',
         imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
-        price: 200
+        price: 2000
       }
     ]
   },
@@ -124,31 +124,31 @@ const SHOP_DATA = {
         id: 18,
         name: 'Wedding Main',
         imageUrl: 'https://i.ibb.co/Y26wRbr/58231-bridal-couple-deepak-studios-lead.png',
-        price: 125
+        price: 1250
       },
       {
         id: 19,
         name: 'Close Wed Main',
         imageUrl: 'https://i.ibb.co/k83YkqK/dsc3735-15-83944-1552462134.png',
-        price: 90
+        price: 9000
       },
       {
         id: 20,
         name: 'Varmala Ceremony',
         imageUrl: 'https://i.ibb.co/MDmNnY6/dsc03723-15-83944-1552462284.png',
-        price: 90
+        price: 9000
       },
       {
         id: 21,
         name: 'Brown Shearling',
         imageUrl: 'https://cdn0.weddingwire.in/vendor/3944/3_2/1280/jpg/18194746-933747563432748-8988681507944494332-n_15_83944.webp',
-        price: 165
+        price: 1650
       },
       {
         id: 22,
         name: 'Kanyadan',
         imageUrl: 'https://i.ibb.co/gtr4gnW/Kanyadaan1306.png',
-        price: 185
+        price: 1850
       }
     ]
   },
@@ -161,25 +161,25 @@ const SHOP_DATA = {
         id: 23,
         name: 'Face cover Bride',
         imageUrl: 'https://i.ibb.co/F6BGkv5/photo-1610173827043-9db50e0d8ef9-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-M.png',
-        price: 25
+        price: 25000
       },
       {
         id: 24,
         name: 'Floral Blouse Bride',
         imageUrl: 'https://i.ibb.co/G2Kwg2d/photo-1629118477133-b8b1499f2b8a-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-M.png',
-        price: 20
+        price: 20000
       },
       {
         id: 25,
         name: 'Floral Dress Bride',
         imageUrl: 'https://i.ibb.co/dfYqJ7p/96daaffacc96e6eba5ae5b5919c76884-white-wedding-saree-white-saree.png',
-        price: 80
+        price: 80000
       },
       {
         id: 26,
         name: 'Red Dots Dress Bride',
         imageUrl: 'https://i.ibb.co/F72P2jh/photo-1610047520958-b42ebcd2f6cb-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-M.png',
-        price: 80
+        price: 80000
       },
       {
         id: 27,
@@ -191,13 +191,13 @@ const SHOP_DATA = {
         id: 28,
         name: 'Yellow Track Suit',
         imageUrl: 'https://i.ibb.co/NjbMYF2/photo-1610276347233-2ab70fc71da8-ixlib-rb-4-0.png',
-        price: 135
+        price: 135000
       },
       {
         id: 29,
         name: 'Sindur Face Bride',
         imageUrl: 'https://i.ibb.co/wJmTtBj/photo-1587271315307-eaebc181c749-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-M.png',
-        price: 20
+        price: 20000
       } 
     ]
   },
@@ -208,39 +208,39 @@ const SHOP_DATA = {
     items: [
       {
         id: 30,
-        name: 'Camo Down Vest',
-        imageUrl: 'https://i.ibb.co/xJS0T3Y/camo-vest.png',
-        price: 325
+        name: 'Shehra',
+        imageUrl: 'https://i.ibb.co/DYks1TK/photo-1627913755902-dddc0b4c8c63-ixlib-rb-4-0.png',
+        price: 3250
       },
       {
         id: 31,
-        name: 'Floral T-shirt',
-        imageUrl: 'https://i.ibb.co/qMQ75QZ/floral-shirt.png',
-        price: 20
+        name: 'Haldi shower',
+        imageUrl: 'https://i.ibb.co/891TyqB/photo-1635919254233-38ea27301900-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-Mnwx-Mj-A3f-DB8-M.png',
+        price: 2000
       },
       {
         id: 32,
-        name: 'Black & White Longsleeve',
-        imageUrl: 'https://i.ibb.co/55z32tw/long-sleeve.png',
-        price: 25
+        name: 'Amreli',
+        imageUrl: 'https://i.ibb.co/jTn4gYC/photo-1610173827002-62c0f1f05d04-ixlib-rb-4-0.png',
+        price: 2500
       },
       {
         id: 33,
-        name: 'Pink T-shirt',
-        imageUrl: 'https://i.ibb.co/RvwnBL8/pink-shirt.png',
-        price: 25
+        name: 'Bharat',
+        imageUrl: 'https://i.ibb.co/QnghhLK/photo-1555447405-057915b40299-ixlib-rb-4-0.png',
+        price: 2500
       },
       {
         id: 34,
-        name: 'Jean Long Sleeve',
-        imageUrl: 'https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png',
-        price: 40
+        name: 'B.B.P',
+        imageUrl: 'https://i.ibb.co/WgxSTT4/photo-1445117627052-274425469152-ixlib-rb-4-0.png',
+        price: 4000
       },
       {
         id: 35,
-        name: 'Burgundy T-shirt',
+        name: 'Just Before marriage',
         imageUrl: 'https://i.ibb.co/mh3VM1f/polka-dot-shirt.png',
-        price: 25
+        price: 2500
       }
     ]
   }
