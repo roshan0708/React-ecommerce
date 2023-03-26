@@ -92,25 +92,25 @@ const SHOP_DATA = {
       {
         id: 14,
         name: 'Nike Red High Tops',
-        imageUrl: 'https://i.ibb.co/QcvzydB/nikes-red.png',
+        imageUrl: 'https://i.ibb.co/bPZJyfp/photo-1607968565043-36af90dde238-ixlib-rb-4-0.png',
         price: 1600
       },
       {
         id: 15,
         name: 'Nike Brown High Tops',
-        imageUrl: 'https://i.ibb.co/fMTV342/nike-brown.png',
+        imageUrl: 'https://i.ibb.co/frrDbg1/best-wedding-couple-portraits.png',
         price: 160
       },
       {
         id: 16,
         name: 'Air Jordan Limited',
-        imageUrl: 'https://i.ibb.co/w4k6Ws9/nike-funky.png',
+        imageUrl: 'https://i.ibb.co/dcvJg13/featured-840x480.png',
         price: 1900
       },
       {
         id: 17,
         name: 'Timberlands',
-        imageUrl: 'https://i.ibb.co/Mhh6wBg/timberlands.png',
+        imageUrl: 'https://i.ibb.co/fpn5Zhy/reception-entry.png',
         price: 2000
       }
     ]
@@ -129,8 +129,8 @@ const SHOP_DATA = {
       {
         id: 19,
         name: 'Close Wed Main',
-        imageUrl: 'https://i.ibb.co/k83YkqK/dsc3735-15-83944-1552462134.png',
-        price: 9000
+        imageUrl: 'https://i.ibb.co/42SjS5R/1000-F-277855763-be-U5-DLF0x-Ks-Sv-Py36q-Tl-Kq-GAl7-N6-BI1c.png',
+        price: 90000
       },
       {
         id: 20,
