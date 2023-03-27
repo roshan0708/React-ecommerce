@@ -183,7 +183,7 @@ const SHOP_DATA = {
       },
       {
         id: 27,
-        name: 'Striped Sweater Bride',
+        name: 'striped Sweater Bride',
         imageUrl: 'https://i.ibb.co/SRJtzP8/bhldn-sweater-skirt.png',
         price: 45
       },
