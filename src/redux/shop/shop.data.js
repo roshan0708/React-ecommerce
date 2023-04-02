@@ -1,7 +1,7 @@
 const SHOP_DATA = {
   hats: {
     id: 1,
-    title: 'Pre Wedding PhotoShoot',
+    title: 'Pre Wedding PhotoShoot Package',
     routeName: 'hats',
     items: [
       {
@@ -62,7 +62,7 @@ const SHOP_DATA = {
   },
   sneakers: {
     id: 2,
-    title: ' 4k Recording Photoshoot',
+    title: ' 4k Recording Photoshoot Package',
     routeName: 'sneakers',
     items: [
       {
@@ -117,7 +117,7 @@ const SHOP_DATA = {
   },
   jackets:{
     id: 3,
-    title: 'Mahurat',
+    title: 'Mahurat Package',
     routeName: 'jackets',
     items: [
       {
@@ -154,7 +154,7 @@ const SHOP_DATA = {
   },
   womens: {
     id: 4,
-    title: 'Bride Side Photoshoot',
+    title: 'Bride Side Photoshoot Package',
     routeName: 'womens',
     items: [
       {
@@ -203,7 +203,7 @@ const SHOP_DATA = {
   },
   mens: {
     id: 5,
-    title: 'Mens',
+    title: 'Groom view Package',
     routeName: 'mens',
     items: [
       {

@@ -1,14 +1,14 @@
 const INITIAL_STATE = {
   sections: [
     {
-      title: "Pre Wedding Photoshoot",
+      title: "Pre Wedding Photoshoot ",
       // imageUrl: 'https://i.ibb.co/cvpntL1/pwp.png',
       imageUrl: "images/hats.png", // local file in public/images/
       id: 1,
       linkUrl: "shop/hats",
     },
     {
-      title: "Wedding Photoshoot",
+      title: "Wedding Photoshoot ",
       // imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
       imageUrl: "images/jackets.png", // local file in public/images/
       id: 2,
@@ -30,7 +30,7 @@ const INITIAL_STATE = {
       linkUrl: "shop/womens",
     },
     {
-      title: "Groom Side Photoshoot",
+      title: "Groom Side Photoshoot ",
       // imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
       imageUrl: "images/men.png", // local file in public/images/
       size: "large",
