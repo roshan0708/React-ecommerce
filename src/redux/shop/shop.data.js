@@ -73,7 +73,7 @@ const SHOP_DATA = {
       },
       {
         id: 11,
-        name: 'Adidas Yeezy',
+        name: 'yezzy',
         imageUrl: 'https://i.ibb.co/QM6dMr8/Wedding-Videography.png',
         price: 2800
       },
@@ -85,25 +85,25 @@ const SHOP_DATA = {
       },
       {
         id: 13,
-        name: 'Nike White AirForce',
+        name: 'distilled 4k',
         imageUrl: 'https://i.ibb.co/RjT2r85/pre-wedding-cinematic-film-services-500x500.png',
         price: 1600
       },
       {
         id: 14,
-        name: 'Nike Red High Tops',
+        name: 'Buttom 4k',
         imageUrl: 'https://i.ibb.co/bPZJyfp/photo-1607968565043-36af90dde238-ixlib-rb-4-0.png',
         price: 1600
       },
       {
         id: 15,
-        name: 'Nike Brown High Tops',
+        name: ' Tops 4k',
         imageUrl: 'https://i.ibb.co/frrDbg1/best-wedding-couple-portraits.png',
         price: 160
       },
       {
         id: 16,
-        name: 'Air Jordan Limited',
+        name: 'Insight ',
         imageUrl: 'https://i.ibb.co/dcvJg13/featured-840x480.png',
         price: 1900
       },
