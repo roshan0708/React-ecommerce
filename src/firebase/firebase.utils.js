@@ -12,11 +12,19 @@ const config = {
   appId: process.env.REACT_APP_APP_ID,
   measurementId: process.env.REACT_APP_MEASUREMENT_ID,
 };
-
+firebase.initializeApp(config);
+export const auth = firebase.auth();
+export const firestore = firebase.firestore()
 export const createUserProfileDocument = async (userAuth, additionalData) => {
   if (!userAuth) return;
+  console.log(userAuth)
+  // getAuth()
 
-  const userRef = firestore.doc(`users/${userAuth.uid}`);
+  // .getUser(uid)
+  // console.log((await firestore))
+  // const userRef = (await firestore).getAuth()
+  // .getUser(userAuth.uid)
+  const userRef = (await firestore).doc(`users/${userAuth.uid}`);
 
   const snapShot = await userRef.get();
 
@@ -39,10 +47,9 @@ export const createUserProfileDocument = async (userAuth, additionalData) => {
   return userRef;
 };
 
-firebase.initializeApp(config);
 
-export const auth = firebase.auth();
-export const firestore = firebase.firestore();
+
+
 
 const provider = new firebase.auth.GoogleAuthProvider();
 provider.setCustomParameters({ prompt: "select_account" });
